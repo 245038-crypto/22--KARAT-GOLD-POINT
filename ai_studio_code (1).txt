@@ -1,0 +1,105 @@
+[
+  {
+    "site_title": "Loaded Attock - The Ultimate Fast Food Experience",
+    "brand_name": "Loaded Attock",
+    "location": "Fawara Chowk, Civil Bazar, Attock, Punjab, Pakistan",
+    "contact": {
+      "phone": "+92-300-1234567",
+      "email": "hello@loadedattock.com",
+      "whatsapp": "+923001234567"
+    },
+    "business_hours": {
+      "monday_to_friday": "12:00 PM - 12:00 AM",
+      "saturday_to_sunday": "12:00 PM - 02:00 AM"
+    },
+    "navigation": [
+      "Home",
+      "Menu",
+      "Special Deals",
+      "About Us",
+      "Contact"
+    ],
+    "sections": [
+      {
+        "type": "hero",
+        "headline": "Attock's Heaviest Loaded Fries & Burgers",
+        "subheadline": "Experience the crunch, the cheese, and the spice at the heart of Attock.",
+        "call_to_action": "Order Now",
+        "image_url": "https://example.com/images/hero-loaded-fries.jpg"
+      },
+      {
+        "type": "featured_menu",
+        "title": "Our Signature Loaded Items",
+        "items": [
+          {
+            "name": "The Attock Beast Fries",
+            "description": "Crispy golden fries loaded with grilled chicken chunks, olives, jalapenos, and our signature triple-cheese blend.",
+            "price": "PKR 750",
+            "tag": "Best Seller"
+          },
+          {
+            "name": "Monster Zinger Stack",
+            "description": "Double spicy chicken fillet, turkey bacon, extra cheese, and house-made peri-peri sauce.",
+            "price": "PKR 850",
+            "tag": "Must Try"
+          },
+          {
+            "name": "Loaded BBQ Platter",
+            "description": "A mix of loaded fries, 4 wings, and a mini slider for the ultimate variety.",
+            "price": "PKR 1200",
+            "tag": "New"
+          }
+        ]
+      },
+      {
+        "type": "menu_categories",
+        "categories": [
+          {
+            "category": "Loaded Fries",
+            "items": [
+              { "name": "Classic Cheese Loaded", "price": "PKR 550" },
+              { "name": "Flaming Hot Cheetos Fries", "price": "PKR 650" },
+              { "name": "Steak & Mushroom Fries", "price": "PKR 790" }
+            ]
+          },
+          {
+            "category": "Loaded Burgers",
+            "items": [
+              { "name": "Double Cheese Smashed Beef", "price": "PKR 890" },
+              { "name": "Crunchy Zinger Supreme", "price": "PKR 550" },
+              { "name": "The Kamra Road Special", "price": "PKR 950" }
+            ]
+          },
+          {
+            "category": "Sides & Shakes",
+            "items": [
+              { "name": "Cheesy Garlic Bread", "price": "PKR 350" },
+              { "name": "Lotus Biscoff Shake", "price": "PKR 590" },
+              { "name": "Mint Margarita", "price": "PKR 250" }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "about",
+        "content": "Born in the streets of Attock, Loaded Attock is dedicated to serving food that doesn't hold back. We believe every bite should be an explosion of flavor. Using fresh local ingredients and international sauces, we've created a menu that defines the modern fast-food culture of our city.",
+        "founded_year": 2023
+      },
+      {
+        "type": "footer",
+        "social_links": {
+          "facebook": "facebook.com/loadedattock",
+          "instagram": "instagram.com/loadedattock",
+          "tiktok": "tiktok.com/@loadedattock"
+        },
+        "copyright": "© 2024 Loaded Attock. All Rights Reserved."
+      }
+    ],
+    "features": {
+      "online_ordering": true,
+      "home_delivery": true,
+      "delivery_radius": "5km within Attock City",
+      "payment_methods": ["Cash on Delivery", "JazzCash", "EasyPaisa", "Credit Card"]
+    }
+  }
+][[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHmozp7RbxS0-sM9H5NC_S-3wYkqBCZCfTPGfuo4gJFvRIUocXEgdUKNEwkvUSNuMXC2nbCKPr0Tkb8jRgMete5ppU6KOoapYeLuZQPWFJgpJ4A7x0sdBvwuv8OzoWtaKw5aTXAtliZQu5HGjRZMVGx8PkdYxbXtHvomnPvwT_yn9UVOrS1KupVfwbDLEmY)][[2](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQESXmaE6GxqNV1hm5Nf85k7LSczIEWI1izRQce9jetnA6_bIZ3DjdhkBt6FcwDAX9-DRWVIIoI62OkEJA3fmqhg1ihAInEiXhsA2tRQqvH2a4AAGo2gz2Mnxr6Vy_N1BuPhtogRqeKwvRFMVFYfbN9UfII%3D)][[3](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEqNVp-PkN1vV-Dg7b7xkf7HOoyL1gFxEMow8f8fpZmbtjNseyG1iBf6V2OJ2yGLvZzv0uf67pDdQNgUEB-s_42kAyvoSNCyJT-sHMyfUb_zIlc-10RUC2kuFmKDObTg5s-yH4%3D)]
